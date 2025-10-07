@@ -52,7 +52,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/hamayun-saeed-585957185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hamayun-saeed-585957185" height="30" width="40" /></a>
   <br>
-   <a href="tel:+923017283563">0301-7283563</a> | 
+   <a href="tel:+923017283563">0308-4720312</a> | 
   <br>
   <a href="mailto:hamayunsaeed48@gmail.com">hamayunsaeed48@gmail.com</a>
 </p>
